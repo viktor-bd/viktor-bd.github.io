@@ -1,35 +1,35 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: viktor-bd
+description: Personal portfolio and project showcase of Viktor
 baseurl: ""
-url: https://piazzai.github.io/cvless
+url: https://viktor-bd.github.io
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Portfolio, experiments, and projects by Viktor
+tagshort: Portfolio
 cv: true
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+  name: Viktor B. D.
+  email: viktordorph@hotmail.com
+photo: assets/files/photo.png
+address: Aalborg, Denmark
+phone: +45 29 93 90 69
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
-  github: https://github.com/username
+  # facebook: ""
+  # x: ""
+  # mastodon: ""
+  # bluesky: ""
+  # instagram: ""
+  linkedin: https://www.linkedin.com/in/viktor-dorph-62604a141/
+  # xing: ""
+  # stackoverflow: ""
+  # medium: ""
+  github: https://github.com/viktor-bd
 
 # build settings
 permalink: pretty
@@ -49,4 +49,3 @@ plugins:
 
 sass:
   sourcemap: never
-  
