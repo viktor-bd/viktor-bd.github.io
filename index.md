@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-Welcome to my project portfolio! I'm Viktor, and this is where I showcase my software projects and experiments. Below you'll find a short introduction, links to my CV, blog, and a highlight of some of my recent repositories.
+Welcome to my project portfolio! I'm Viktor, and this is where I showcase my software projects and experiments. Below you'll find a short introduction, links to my CV and a highlight of some of my recent repositories.
 
 This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and download a print version: [Danish](assets/files/cv-da.pdf), [English](assets/files/cv-en.pdf). 
 <!-- The theme also ships with a blog: [click here](posts) to scroll posts from the most recent.  -->
