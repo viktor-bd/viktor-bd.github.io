@@ -49,3 +49,8 @@ plugins:
 
 sass:
   sourcemap: never
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/posts/:num/'
